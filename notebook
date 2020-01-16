@@ -13,3 +13,40 @@ https://cloud.tencent.com/developer/article/1357281
 
 第二章 Java程序设计环境
 
+第三章 Java的基本程序设计结构
+
+一、对于第一个简单的Java应用程序的解剖
+
+public class FirstSample {
+
+	public static void main(String[] args) {
+		
+		System.out.println("hello world!");
+	}
+	
+}
+
+/*
+（1）关键词public
+是访问修饰符，用于控制程序的其他部分对这串代码的访问级别。
+（2）关键词class
+加载程序编辑的容器
+（3）类名FristSample
+命名规范：
+大写字母开头，若由多个单词组成，则每个单词的第一个字母必须大写。不能使用Java保留字。
+（4）main方法
+Java虚拟机将从指定类的main方法开始执行，因此有效的类的源文件中必须包含一个main方法。
+（5）System.out.println()
+System.out是一个对象，println是对象中的一个方法，点号（.）用于调用方法。这行指令调用了对象中的println方法，并将字符串作为参数传递给它。
+这个方法将字符串参数显示在控制台上。
+
+*/
+
+二、Java注释格式
+
+1. // 注释单行
+2. /* */ 注释整段
+3. /** */注释生成文档
+
+三、Java数据类型
+

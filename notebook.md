@@ -3,7 +3,7 @@
 
 写在前面：学习一门程序语言，就像认识一个人，习惯一种表达方式，我也想通过与Java的相处过程中，了解Java的一些“性格特点”，与之成为朋友。
 
-！[Javaimage](https://ask.qcloudimg.com/http-save/yehe-1510914/0oevnu9ij1.jpeg?imageView2/2/w/1620)
+![Javaimage](https://ask.qcloudimg.com/http-save/yehe-1510914/0oevnu9ij1.jpeg?imageView2/2/w/1620)
 
 
 第一章 Java语言设计概述

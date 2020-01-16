@@ -17,6 +17,8 @@ https://cloud.tencent.com/developer/article/1357281
 
 一、对于第一个简单的Java应用程序的解剖
 
+'''java
+
 public class FirstSample {
 
 	public static void main(String[] args) {
@@ -25,7 +27,7 @@ public class FirstSample {
 	}
 	
 }
-
+'''
 /*
 （1）关键词public
 是访问修饰符，用于控制程序的其他部分对这串代码的访问级别。

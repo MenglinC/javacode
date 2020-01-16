@@ -1,1 +1,15 @@
+参考书目《core Java Volume I-Fundamentals》10th edition(Cay S. Horstmann writed)
+
+https://cloud.tencent.com/developer/article/1357281
+
+写在前面：学习一门程序语言，就像认识一个人，习惯一种表达方式，我也想通过与Java的相处过程中，了解Java的一些“性格特点”，与之成为朋友。
+
+第一章 Java语言设计概述
+
+一、Java语言的特点
+
+1.简单性2.面向对象3.分布式4.健壮性5.安全性6.体系结构中立7.可移植性8.解释型9.高性能10.多线程11.动态性
+（这些特点我暂时还没法理解，说明我之前学的实际上是很浅的）
+
+第二章 Java程序设计环境
 
